@@ -1,0 +1,2 @@
+# chromium-base64
+Base64 Encoder/Decoder ⚡⚡⚡ 9Kb FASTEST NPM JAVASCRIPT IMPLEMENTATION 2023!
