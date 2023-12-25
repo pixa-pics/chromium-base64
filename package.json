@@ -1,0 +1,51 @@
+{
+  "name": "chromium-base64",
+  "version": "0.5.0",
+  "description": "Base64 Encoder/Decoder ⚡⚡⚡ 9Kb FASTEST NPM JAVASCRIPT IMPLEMENTATION 2023!",
+  "devDependencies": {
+    "path": "~0.12.7",
+    "uglifyjs-3-webpack-plugin": "~1.2.4",
+    "webpack": "~4.37.0",
+    "webpack-cli": "~4.10.0",
+    "babel-loader": "~8.3.0",
+    "@babel/core": "^7.23.6",
+    "@babel/preset-env": "^7.23.6"
+  },
+  "build": {},
+  "author": "Affolter Matias",
+  "keywords": [
+    "B64",
+    "Base64",
+    "b64",
+    "64",
+    "base64",
+    "base64-js",
+    "base",
+    "encoder",
+    "decoder",
+    "javascript",
+    "js",
+    "encode",
+    "decode",
+    "byte",
+    "bytes",
+    "Byte",
+    "Bytes",
+    "fast",
+    "optimization",
+    "efficiency",
+    "performance",
+    "msgpackr"
+  ],
+  "scripts": {
+    "build": "NODE_ENV=production webpack --node-env \"production\""
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pixa-pics/chromium-base64.git"
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  }
+}
